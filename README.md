@@ -2,7 +2,7 @@
 
 PHP library for generating Energy Performance Certificates (EPC's)
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/frozensheep/EPCGenerator.svg?style=flat-square)](https://packagist.org/packages/frozensheep/epc-generator)
+[![Latest Stable Version](https://img.shields.io/packagist/v/frozensheep/epc-generator.svg?style=flat-square)](https://packagist.org/packages/frozensheep/epc-generator)
 [![Build Status](https://img.shields.io/travis/frozensheep/EPCGenerator/master.svg?style=flat-square)](https://travis-ci.org/frozensheep/EPCGenerator)
 [![Coverage Status](https://coveralls.io/repos/frozensheep/EPCGenerator/badge.svg?branch=master&service=github)](https://coveralls.io/github/frozensheep/EPCGenerator?branch=master)
 [![MIT License](https://img.shields.io/packagist/l/frozensheep/EPCGenerator.svg?style=flat-square)](https://github.com/frozensheep/EPCGenerator/blob/master/LICENSE)
