@@ -2,7 +2,7 @@
 	"name": "frozensheep/epc-generator",
 	"type": "library",
 	"description": "PHP library for generating Energy Performance Certificates (EPC's)",
-	"keywords": ["Energy Performance Certificate", "energy", "epc", "property", "renting", "sales", "real estate", "houses", "2002/91/EC"],
+	"keywords": ["Energy Performance Certificate", "energy", "epc", "property", "renting", "sales", "real estate", "houses", "2002 91 EC"],
 	"homepage": "https://github.com/frozensheep/EPCGenerator",
 	"license": "MIT",
 	"authors": [
